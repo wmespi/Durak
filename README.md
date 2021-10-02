@@ -1,0 +1,2 @@
+# Durak
+Creating durak application
